@@ -3,8 +3,6 @@ Start the server
 
    Start the webbsite:
 
-    command:
-
    ```bash
    npm run start
    ```
